@@ -9,5 +9,11 @@ class SkillTrackerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	
+	@Test
+	public void incompleteTest() {
+	    fail("Not yet implemented");
+	}
 
 }
